@@ -15,7 +15,6 @@ Click **Show interface preview** below to view the web interface.
 
 ## Table of Contents
 
-- [Group](#group)
 - [Interface Preview](#interface-preview)
 - [Run the Project](#run-the-project)
 - [Documentation](#documentation)
@@ -29,11 +28,6 @@ Click **Show interface preview** below to view the web interface.
 - [End-to-end Evaluation](#end-to-end-evaluation)
 - [Current Limitations](#current-limitations)
 
-
-## Group
-
-- Anning Ma (student number: 22404528; email: anning.ma@etu.u-paris.fr)
-- Yiwei ZUO (student number: 22400141; email: yiwei.zuo@etu.u-paris.fr)
 
 ## Interface preview
 
