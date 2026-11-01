@@ -101,7 +101,7 @@ complete setup steps.
 
 **1. Download the precomputed index.**
 
-Download the [index ZIP](https://github.com/user-attachments/files/34176724/warhammer-qwen-parent-child-index-20261030.zip)
+Download the [index ZIP](https://github.com/Yiwei-ZUO/warhammer-40k-rag-assistant/releases/download/index-v1/warhammer-qwen-parent-child-index-20261030.zip)
 and save it in `storage/releases/` (create the directory if needed).
 **Do not extract the ZIP file.**
 The checksum is included in `checksums/`.
